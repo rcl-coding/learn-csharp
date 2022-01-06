@@ -7,7 +7,7 @@ description: Create your first console application
 
 # Getting Started
 
-You will write your code with the Microsoft Visual Studio IDE. In this article your will install Visual Studio and create a Console application.
+You will write your code with the Microsoft Visual Studio IDE. In this article, your will install Visual Studio and create a Console application.
 
 ****
 
@@ -21,33 +21,24 @@ You can download the IDE at the following link :
 
 2. On the start window, choose **Create a new project**
 
-3. On the **Create a new project** window, enter **console** in the search box. Next, choose **C#** from the Language list, and then choose **Windows** from the Platform list
+3. On the **Create a new project** window, enter **console** in the search box. 
 
-4. After you apply the language and platform filters, choose the **Console App (.NET Core)** template, and then choose **Next**
+4. Choose the **Console App (C#)** template, and then choose **Next**
 
-5. In the **Configure your new project** window, type or enter **HelloWorld** in the **Project name** box. Select a folder to store the project. Then, choose Create
+5. In the **Configure your new project** window, type or enter **HelloWorld** in the **Project name** box. Select a folder to store the project. Then, click the **Next** button
+
+5. Select the Framework : **.NET 6(Long term support)** and click the **Create** button.
 
 ## The application code
 
 In the code editor, you will see the following C# code:
 
 ```csharp
-using System;
-
-namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+Console.WriteLine("Hello, World!");
 
 ```
 
-The code will write a line of text, 'Hello World', in the console window.
+The code will write a line of text, 'Hello World!', in the console window.
 
 ### Run the application
 
