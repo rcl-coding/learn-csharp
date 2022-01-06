@@ -13,8 +13,21 @@ Author : Anil Ripla
 ### License
 'Learn C#' is distributed by an MIT license.
 
-### Contributing
-When contributing to this repository, please first discuss the contribution you wish to make via issue, email, or any other method with the owners of this repository. When your contribution is approved, clone the repo, include your contribution and submit a pull request.
+### How to make a simple correction or suggestion
+
+Articles are stored in the GitHub repository as Markdown files. Simple changes to the content of a Markdown file are made in the browser by selecting the Edit link (pencil) in GitHub in the upper-right corner of the Markdown file. Follow the directions to create a pull request (PR). We will review the PR and accept it or suggest changes.
+
+### How to make a more complex submission
+
+- You need a basic understanding of Git and GitHub.com.
+
+- Open an issue describing what you want to do, such as changing an existing article or creating a new one. Wait for approval before you invest much time.
+
+- Fork the repo of the main branch and create a new branch for your changes.
+
+- Submit a PR to the main branch with your changes.
+
+- Respond to PR feedback.
 
 ### Code of Conduct
 We are committed to fostering a welcoming community.
