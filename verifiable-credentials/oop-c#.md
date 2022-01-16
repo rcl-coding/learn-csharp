@@ -26,4 +26,4 @@ You must know and understand :
 - Static Classes
 
 ## Evidence Requirements
-You must be able to provide one or more **C# applications** that cover the skill and knowledge requirements for this credential.
+You must be able to provide one or more **Object Oriented C# applications** that cover the skill and knowledge requirements for this credential.
