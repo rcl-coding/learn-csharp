@@ -33,5 +33,4 @@ You must know and understand :
     - foreach
 
 ## Evidence Requirements
-
 You must be able to provide one or more **C# applications** that cover the skill and knowledge requirements for this credential.
