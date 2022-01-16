@@ -5,6 +5,9 @@ nav_order: 1
 description: Write basic code with C# types and statements
 ---
 
+## Credential Title
+### Basic Coding with C#
+
 ## Outcome
 To earn this credential you must be able to write basic code with C#.
 
@@ -28,3 +31,7 @@ You must know and understand :
     - do - while
     - for
     - foreach
+
+## Evidence Requirements
+
+You must be able to provide one or more **C# applications** that cover the skill and knowledge requirements for this credential.
