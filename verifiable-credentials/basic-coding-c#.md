@@ -1,0 +1,30 @@
+---
+title: Basic Coding with C#
+parent: Verifiable Credentials
+nav_order: 1
+description: Write basic code with C# types and statements
+---
+
+## Outcome
+To earn this credential you must be able to write basic code with C#.
+
+## Skill Requirements
+You must be able to :
+- Write basic code using types
+- Writ basic code using statements
+
+## Knowledge Requirements
+You must know and understand :
+- C# Types :
+    - string
+    - int
+    - long
+    - bool
+    - double
+    - decimal
+
+- C# Statements :
+    - if – else
+    - do - while
+    - for
+    - foreach
