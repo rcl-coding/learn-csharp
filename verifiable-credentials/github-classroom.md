@@ -1,8 +1,7 @@
 ---
 title: GitHub Classroom
-has_children: true
-nav_order: 10
-permalink: /learn-csharp/github-classroom
+parent: Verifiable Credentials
+nav_order: 4
 description: Learn how to use Github classroom to complete coding assignments
 ---
 
