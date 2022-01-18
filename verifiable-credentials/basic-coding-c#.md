@@ -21,16 +21,20 @@ You must know and understand :
 - C# Types :
     - string
     - int
+    - decimal
+    - double
     - long
     - bool
-    - double
-    - decimal
+    - DateTime
+
+- Arrays
 
 - C# Statements :
     - if – else
     - do - while
     - for
     - foreach
+
 
 ## Evidence Requirements
 You must be able to provide one or more **C# applications** that cover the skill and knowledge requirements for this credential.
