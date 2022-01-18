@@ -36,4 +36,4 @@ You must know and understand :
 You must be able to provide one or more **C# applications** that cover the skill and knowledge requirements for this credential.
 
 ## Github Classroom Assignments
-You will provided with a link to complete an assignment on GitHub classroom to achieve a credential. Follow these [instructions](./github-classroom) to complete and submit the assignment.
+You will be provided with a link to complete an assignment on GitHub classroom to achieve this credential. Follow these [instructions](./github-classroom) to complete and submit the assignment.
