@@ -31,7 +31,6 @@ The following are some common comparators that can be used when you set up condi
 ```csharp
 string result = string.Empty;
 int number = 5;
-
 if (number == 12)
 {
     result = "dozen";
