@@ -8,8 +8,8 @@ nav_order: 1
 ## Learn C#
 Learn the C# programming language with code examples. 
 
-Author : Anil Ripla
-Organization: Trinidad and Tobago .NET Developers Group and Ray Consulting Limited
+- Author : Anil Ripla
+- Organization: Trinidad and Tobago .NET Developers Group and Ray Consulting Limited
 
 ### License
 'Learn C#' is distributed by an MIT license.
